@@ -11,6 +11,7 @@
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Murilo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Murilo-LARAVEL" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img align="right" alt="Murilo-yoda" height="110" width="120" src="https://media.giphy.com/media/qRhXEKCDQxfVu/giphy.gif?cid=790b761113b116e396274c6f3e85010ed0e56a5dbc18c812&rid=giphy.gif&ct=g">
 </div>
   
